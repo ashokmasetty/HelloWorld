@@ -1,10 +1,3 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="HelloWorldMapperUnitTests.cs" company="Ryan Woodcox">
-//  Copyright (c) 2015 All Rights Reserved
-//  <author>Ryan Woodcox</author>
-// </copyright>
-//-----------------------------------------------------------------------
-
 namespace HelloWorldAPI.Tests.UnitTests
 {
     using HelloWorldInfrastructure.Mappers;
