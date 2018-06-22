@@ -1,10 +1,3 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="HelloWorldConsoleApp.cs" company="Ryan Woodcox">
-//  Copyright (c) 2015 All Rights Reserved
-//  <author>Ryan Woodcox</author>
-// </copyright>
-//-----------------------------------------------------------------------
-
 namespace ConsoleApp.Application
 {
     using ConsoleApp.Services;
