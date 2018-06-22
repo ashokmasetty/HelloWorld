@@ -1,10 +1,3 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="IConsole.cs" company="Ryan Woodcox">
-//  Copyright (c) 2015 All Rights Reserved
-//  <author>Ryan Woodcox</author>
-// </copyright>
-//-----------------------------------------------------------------------
-
 namespace HelloWorldInfrastructure.FrameworkWrappers
 {
     /// <summary>
