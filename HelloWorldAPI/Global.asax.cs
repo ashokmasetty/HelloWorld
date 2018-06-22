@@ -1,10 +1,3 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="WebApiApplication.cs">
-//  Copyright (c) 2015 All Rights Reserved
-//  <author>Ryan Woodcox</author>
-// </copyright>
-//-----------------------------------------------------------------------
-
 namespace HelloWorldAPI
 {
     using System.Web.Http;
